@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LabAPIRequest</string>
+    <string name="nombre">nombre</string>
+    <string name="comuna">comuna</string>
+    <string name="age">12</string>
+    <string name="tipo">CUYO</string>
+    <string name="estado">Adoptado</string>
+    <string name="genero">Macho</string>
+    <string name="descripcion">Django es un perro blanco de mi amigo José, aunque todos le dicen Jose, su nombre lleva tílde, mi amigo José es un troll
+    pues le puso Django a su perro blanco porque es muy blanco y en la película de Django sin cadenas, el protagonista es de Test oscura, por eso es un
+    troll, pero como quiero a mi amigo José, es una gran persona, sin embargo le debo $2500, espero econtrar trabjo luego para poder pagarle lo que le debo
+    a ese desgraciado!!!</string>
+    <string name="botonMostrarLista">Conectar a la API</string>
+</resources>
